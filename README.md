@@ -1,16 +1,13 @@
-### Hi there 👋
+ [![trophy](https://github-profile-trophy.vercel.app/?username=FernandoBade)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**FernandoBade/FernandoBade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true)  
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/FernandoBade)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FernandoBade)  
+
+![Profile views](https://gpvc.arturio.dev/FernandoBade)  
+</p>
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+
