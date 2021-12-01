@@ -15,6 +15,4 @@ console.log(feBade);
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=FernandoBade)
- 
 ![Profile views](https://gpvc.arturio.dev/FernandoBade)  
