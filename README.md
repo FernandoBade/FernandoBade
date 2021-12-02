@@ -34,10 +34,3 @@ console.log(fernandoBade);
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=45%/>
  
 </div>  
-
-
-<hr>
-
-<div align="center" width="100%">
-<img align="center" src="https://komarev.com/ghpvc/?username=FernandoBade&label=Visitas&style=flat&color=8f72db"/>
- </div>  
