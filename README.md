@@ -2,10 +2,17 @@
 ```javascript
 const fernandoBade = {
 
-      idade: 35,
-      estudandoHoje: ["html", "css", "javascript", "mysql"],
-      estudareiAmanha: ["react", "angular", "vue", "electron"],
-      ferramentas: ["figma", "photoshop", "vscode"],
+    age: 35,
+    studyingNow: ["html", "css", "bootstrap", "javascript", "mysql"],
+    styduingSoon: ["react", "angular", "vue", "electron", "python"],
+    tools: ["figma", "photoshop"],
+    interestAreas: ["front-end", "ux/ui", "qa"],
+    attendingSchool: {
+                    name: "digital house",
+                    course: "ctd - certified tech developer",
+                    degree: "full-stack developer",
+                    conclusion: "june 2024"
+    }
 }
 
 console.log(fernandoBade);
@@ -30,7 +37,7 @@ console.log(fernandoBade);
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoBade&repo=certified-tech-developer&theme=buefy" width=49.5%/>
 </div>  
                                                                                                                                        
- <div width=49.5% align="right"> <p align="center" style="color:#7a58d5">Ouvindo:<p>
+ <div width=49.5% align="right"> <p align="center" style="color:#7a58d5">Linstening:<p>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=40%/>
 </div> 
 </div> 
