@@ -1,8 +1,4 @@
-<div align="center" width="99%">
-<h3 align="center">Playlist aleatória do dia:</h3>
-</div>      
-     
-      
+ 
 ```javascript
 const fernandoBade = {
 
@@ -26,16 +22,18 @@ console.log(fernandoBade);
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&date_format=j%2Fn%5B%2FY%5D" width=49.5% />
 </a>
 </div>
- 
+
 <br>
-<div align="center">
-      
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12160833189&redirect=true)
-      
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade)](https://github.com/anuraghazra/github-readme-stats)
-      </div>
-      
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
+<div align="center" width="100%">
 
-![Profile views](https://gpvc.arturio.dev/FernandoBade)  
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoBade&repo=certified-tech-developer" width=49.5%/>
+ 
+ <p align="center">      Playlist aleatória do dia:
+     </p>
+     
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=45%/>
+    
+</div>     
+
+
