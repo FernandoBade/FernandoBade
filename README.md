@@ -38,6 +38,6 @@ console.log(fernandoBade);
 </div>  
                                                                                                                                        
  <div width=49.5% align="right"> <p align="center" style="color:#7a58d5">Linstening:<p>
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=40%/>
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=40%/>
 </div> 
 </div> 
