@@ -31,6 +31,6 @@ console.log(fernandoBade);
  
  <p align="center">A playlist aleatória do dia é:
        
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=46%/>
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=45%/>
  
 </div>  
