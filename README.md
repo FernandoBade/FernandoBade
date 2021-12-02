@@ -1,12 +1,29 @@
-```
-const feBade = {
-    idade: 35,
-    estudandoHoje: ["html", "css", "javascript", "mysql"],
-    estudareiAmanha: ["react", "angular", "vue", "electron"],
-    ferramentas: ["figma", "photoshop", "vscode"],
+```javascript
+const fernandoBade = {
+
+      idade: 35,
+      estudandoHoje: ["html", "css", "javascript", "mysql"],
+      estudareiAmanha: ["react", "angular", "vue", "electron"],
+      ferramentas: ["figma", "photoshop", "vscode"],
 }
-console.log(feBade);
+console.log(fernandoBade);
 ```
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true" width=50%/>
+</a>
+    
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoBade" width=49% />
+</a>
+</div>
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FernandoBade)  
