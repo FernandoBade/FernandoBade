@@ -27,9 +27,9 @@ console.log(fernandoBade);
 
 <div align="center" width="100%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoBade&repo=certified-tech-developer" width=49.5%/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoBade&repo=certified-tech-developer&theme=buefy" width=49.5%/>
  
- <p align="center"> Hoje estou ouvindo: 
+ <p align="center">A playlist aleatória do dia é:
        
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=45%/>
  
