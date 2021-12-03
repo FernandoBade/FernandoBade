@@ -1,4 +1,4 @@
- 
+
 ```javascript
 const fernandoBade = {
 
@@ -37,7 +37,10 @@ console.log(fernandoBade);
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoBade&repo=certified-tech-developer&theme=buefy" width=49.5%/>
 </div>  
                                                                                                                                        
- <div width=49.5% align="right"> <p align="center" style="color:#7a58d5">Listening:<p>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true" width=40%/>
+ <div width=49.5% align="center" border="1px"> <p align="center" style="color:#7a58d5">Listening:<p>
+  
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&redirect=true">
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12160833189&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" width=45%/>
+</a>
 </div> 
 </div> 
