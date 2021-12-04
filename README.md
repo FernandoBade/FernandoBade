@@ -1,3 +1,5 @@
+<div align="" width=50%>
+
 
 ```javascript
 const fernandoBade = {
@@ -17,7 +19,16 @@ const fernandoBade = {
 
 console.log(fernandoBade);
 ```
+    
+</div
 
+    <div align="right" width=40%>
+
+<a href="https://github.com/FernandoBade/">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=default&bar_color_cover=true">
+             </a>
+    </div>
+    
 <br>
 <div align="center" width=100%>
 
