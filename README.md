@@ -21,7 +21,7 @@ console.log(fernandoBade);
     
  <p></p>
  <div align="center">
-<img src="https://media3.giphy.com/media/3XvuN1HpgwUxpBlybm/giphy.gif?cid=790b7611880b5483d84660007b7b6c60b9c7497a0dcca755&rid=giphy.gif&ct=g" width="495">
+<img src="https://media3.giphy.com/media/3XvuN1HpgwUxpBlybm/giphy.gif?cid=790b7611880b5483d84660007b7b6c60b9c7497a0dcca755&rid=giphy.gif&ct=g" width="485">
  </div>
 
  <div align="center">
@@ -33,7 +33,7 @@ console.log(fernandoBade);
 
  <div align="center">
 <a href="https://github.com/FernandoBade/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=buefy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=buefy" width="485"/>
 </a>
  </div>
  
@@ -41,7 +41,7 @@ console.log(fernandoBade);
 
  <div align="center">
 <a href="https://github.com/FernandoBade">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&date_format=j%2Fn%5B%2FY%5D" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&date_format=j%2Fn%5B%2FY%5D" width="485"/>
 </a>
 </div>
 
