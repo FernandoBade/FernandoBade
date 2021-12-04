@@ -1,4 +1,3 @@
- 
 ```javascript
 const fernandoBade = {
 
@@ -23,14 +22,14 @@ console.log(fernandoBade);
 
 <div align="center">
     <a href="https://github.com/FernandoBade/">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=12160833189&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f"
-            width=526 align="center">
+        <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
+            width=515 align="center">
     </a>
 </div>
 
 
 <div align="center">
-    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width="495">
+    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=495>
 </div>
 
 
