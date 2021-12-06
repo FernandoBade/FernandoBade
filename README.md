@@ -56,7 +56,7 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=45&theme=buefy&hide_title=true&langs_count=3" />
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=40&theme=buefy&hide_title=false&langs_count=3&custom_title=Last%2030 %20days" align=center />
     </a>
 </div>
 
