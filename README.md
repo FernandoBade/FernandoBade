@@ -60,10 +60,3 @@ console.log(fernandoBade);
     </a>
 </div>
 
-
-```text
-HTML         4 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.56 % 
-CSS          3 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   44.92 % 
-JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-```
-
