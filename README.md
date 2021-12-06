@@ -27,7 +27,7 @@ console.log(fernandoBade);
 </div>
 
 <div align="center">
-    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=440>
+    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
 </div>
 
 
