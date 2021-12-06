@@ -60,10 +60,10 @@ console.log(fernandoBade);
     </a>
 </div>
 
-<!--START_SECTION:waka-->
+
 ```text
 HTML         4 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.56 % 
 CSS          3 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   44.92 % 
 JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
-<!--END_SECTION:waka-->
+
