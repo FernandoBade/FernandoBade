@@ -28,7 +28,7 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
-            width=460 align="center">
+            width=467 align="center">
     </a>
 </div>
 <div align="center">
