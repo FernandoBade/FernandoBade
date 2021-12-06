@@ -19,18 +19,18 @@ console.log(fernandoBade);
 ```
 
 
+
+
+<div align="center">
+    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
+</div>
+
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
             width=460 align="center">
     </a>
 </div>
-
-<div align="center">
-    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
-</div>
-
-
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
