@@ -8,10 +8,10 @@ const fernandoBade = {
     tools: ["figma", "photoshop"],
     interestAreas: ["ux/ui", "front-end", "qa"],
     attendingSchool: {
-                    name: "digital house brazil",
-                    course: "certified tech developer",
-                    degree: "full-stack developer",
-                    conclusion: "june 2024"
+        name: "digital house brazil",
+        course: "certified tech developer",
+        degree: "full-stack developer",
+        conclusion: "june 2024"
     }
 }
 
