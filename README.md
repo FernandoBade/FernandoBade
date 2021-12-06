@@ -25,6 +25,8 @@ console.log(fernandoBade);
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
 </div>
 
+<p></p>
+
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
