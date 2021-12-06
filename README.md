@@ -50,3 +50,15 @@ console.log(fernandoBade);
             src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&date_format=j%2Fn%5B%2FY%5D" />
     </a>
 </div>
+
+<p></p>
+
+<div align="center">
+    <a href="https://github.com/FernandoBade">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=45&theme=buefy&hide_title=true&langs_count=3" />
+    </a>
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
