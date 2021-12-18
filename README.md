@@ -19,8 +19,6 @@ console.log(fernandoBade);
 ```
 
 
-
-
 <div align="center">
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
 </div>
