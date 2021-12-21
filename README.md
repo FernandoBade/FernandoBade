@@ -17,7 +17,6 @@ const fernandoBade = {
 
 console.log(fernandoBade);
 ```
-
 <div align="center">
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
 </div>
@@ -50,7 +49,7 @@ console.log(fernandoBade);
     </a>
 </div>
 
-<br> 
+<br>
 
 <div align="center">    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="fernandobade" /> </p>
