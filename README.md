@@ -48,8 +48,6 @@ console.log(fernandoBade);
             src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
     </a>
 </div>
-
 <br>
-
 <div align="center">    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="fernandobade" /> </p>
