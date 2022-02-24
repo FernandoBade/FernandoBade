@@ -3,14 +3,14 @@ const fernandoBade = {
 
     age: 35,
     hobbies: ["games", "movies", "series", "cigars"],
-    studyingNow: ["html", "css", "bootstrap", "javascript", "mysql"],
+    alreadyKnow: ["html", "css", "bootstrap", "js vanilla", "mysql", "git"],
     styduingSoon: ["react", "angular", "vue", "electron", "python"],
-    tools: ["figma", "photoshop"],
-    interestAreas: ["ux/ui", "front-end", "qa"],
+    tools: ["figma", "adobe xd", "photoshop", "illustrator"],
+    interestAreas: ["ux/ui design", "front-end development", "product design"],
     attendingSchool: {
         name: "digital house brazil",
         course: "certified tech developer",
-        degree: "full-stack developer",
+        degree: "full-stack developer + front-end specialization",
         conclusion: "june 2024"
     }
 }
