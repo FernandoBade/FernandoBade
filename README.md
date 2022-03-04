@@ -39,7 +39,7 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=3&custom_title=Last%2014%20days" align=center />
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=4&custom_title=Last%2014%20days" align=center />
     </a>
 </div>
 <div align="center">
