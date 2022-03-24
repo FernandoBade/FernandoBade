@@ -57,4 +57,3 @@ console.log(fernandoBade);
 <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="Fernando Bade's profile" />
 </p>
 </div>
-
