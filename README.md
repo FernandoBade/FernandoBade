@@ -32,7 +32,7 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=buefy&include_all_commits=true&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=buefy&include_all_commits=false&hide_border=true" />
     </a>
 </div>
 
