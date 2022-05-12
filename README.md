@@ -44,12 +44,14 @@ console.log(fernandoBade);
 </div>
 
 <div align="center">
-    <a href="https://github.com/FernandoBade">
         <img align="center"
-            src="http://github-readme-streak-stats.herokuapp.com?user=FernandoBade&theme=buefy&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
-    </a>
+            src="https://wakatime.com/share/@FernandoBade/46065308-f160-4778-86ca-996f74cefc2d.json&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=6&custom_title=Last%2014%20days&v=3" align=centerwaka/>
+
 </div>
-<br>
+<div align="center" width="100%">
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBade&layout=compact&theme=buefy&hide_border=true)
+</div>
 
 
 <div align="center">    
