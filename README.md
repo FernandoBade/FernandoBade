@@ -43,17 +43,6 @@ console.log(fernandoBade);
     </a>
 </div>
 
-<div align="center">
-        <img align="center"
-            src="https://wakatime.com/share/@FernandoBade/46065308-f160-4778-86ca-996f74cefc2d.json&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=6&custom_title=Last%2014%20days&v=3" align=centerwaka/>
-
-</div>
-<div align="center" width="100%">
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBade&layout=compact&theme=buefy&hide_border=true)
-</div>
-
-
 <div align="center">    
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="Fernando Bade's profile" />
