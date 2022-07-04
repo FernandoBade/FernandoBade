@@ -42,8 +42,6 @@ console.log(fernandoBade);
             src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=5&custom_title=Last%2014%20days&v=3" align=centerwaka/>
     </a>
 </div>
-
-
 <div align="center">    
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="Fernando Bade's profile" />
