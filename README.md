@@ -36,11 +36,13 @@ console.log(fernandoBade);
     </a>
 </div>
 
+
 <div align="center">
-    <a href="https://github.com/FernandoBade">
-        <img align="center" :src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&hide_title=false&langs_count=5&custom_title=Last%2014%20days&v=3" align=centerwaka/>
+    <a href="https://github.com/FernandoBade">  
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&custom_title=Learning%20Path%20So%20Far")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
+
 <div align="center">    
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fernandobade&label=profile%20views%20so%20far&color=8f72db" alt="Fernando Bade's profile" />
