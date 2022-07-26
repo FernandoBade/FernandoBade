@@ -3,7 +3,7 @@ const fernandoBade = {
 
     age: 35,
     hobbies: ["games", "movies", "series", "cigars"],
-    alreadyKnow: ["html", "css", "javascript", "java", "python", "typescript", "node.js", "mysql", "git"],
+    alreadyKnow: ["html/css", "javascript", "java", "python", "typescript", "node.js", "mysql", "git"],
     styduingNow: ["cypress", "selenium", "robot framework", "jest"],
     tools: ["vscode", "intellij", "postman"],
     interestAreas: ["quality assurance", "testing", "product design"],
