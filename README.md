@@ -4,11 +4,11 @@ const fernandoBade = {
     age: 35,
     hobbies: ["games", "movies", "series", "cigars"],
     alreadyKnow: ["html", "css", "javascript", "java", "python", "typescript", "node.js", "mysql", "git"],
-    styduingNow: ["cypress", "selenium", "jest"],
-    tools: ["vscode", "postman", "figma"],
+    styduingNow: ["cypress", "selenium", "robot framework", "jest"],
+    tools: ["vscode", "intellij", "postman"],
     interestAreas: ["quality assurance", "testing", "product design"],
     attendingSchool: {
-        name: "digital house brazil",
+        name: "digital house",
         course: "certified tech developer",
         degree: "full-stack developer + frontend or backend specialization",
         conclusion: "june 2024"
