@@ -2,24 +2,27 @@
 const fernandoBade = {
 
     age: 35,
-    hobbies: ["games", "movies", "series", "cigars"],
+    hobbies: ["games", "movies", "series"],
     alreadyKnow: [
-        "html/css",
+        "html"
+        "css",
         "javascript",
         "java",
         "python",
-        "typescript",
         "node.js",
         "mysql",
         "git",
         "cypress",
         "selenium",
+        "bootstrap",        
+        "tailwind",
         "robot framework",
         "jest",
-        "junit"      
+        "junit",
+        "postman",
         ],
     styduingNow: ["c#, "vb.net", "asp.net"],
-    tools: ["vscode", "intellij", "postman", "visual studio"],
+    tools: ["vscode", "intellij", "visual studio"],
     interestAreas: ["backend", "testing"],
     attendingSchool: {
         name: "digital house",
