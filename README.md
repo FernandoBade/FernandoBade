@@ -17,7 +17,7 @@ const fernandoBade = {
         "bootstrap",        
         "tailwind",
         "scss",
-        "robot framework",
+        "robot",
         "jest",
         "junit",
         "postman",
