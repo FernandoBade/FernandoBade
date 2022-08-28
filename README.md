@@ -22,7 +22,7 @@ const fernandoBade = {
         "junit",
         "postman",
         "ux/ui"],
-    styduingNow: ["c#, "vb.net", "asp.net"],
+    styduingNow: ["cSharp", "vb.net", "asp.net"],
     tools: ["vscode", "intellij", "visual studio"],
     interestAreas: ["backend", "testing"],
     attendingSchool: {
