@@ -4,7 +4,7 @@ const fernandoBade = {
     age: 35,
     hobbies: ["games", "movies", "series"],
     alreadyKnow: ["java", "javascript", "mysql", "html/css", "selenium", "cypress", "ux/ui design"],
-    studyingNow: ["visual basic", ".net framework"],
+    studyingNow: ["vb.net", "asp.net", "jquery"],
     tools: ["visual studio", "intellij", "vscode", "figma", "postman"],
     attendingSchool: {
         name: "digital house",
