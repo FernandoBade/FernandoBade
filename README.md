@@ -5,7 +5,7 @@ const fernandoBade = {
     hobbies: ["games", "movies", "series"],
     alreadyKnow: ["java", "javascript", "mysql", "html/css", "selenium", "cypress", "ux/ui design"],
     studyingNow: ["vb.net", "asp.net", "jquery"],
-    tools: ["visual studio", "intellij", "vscode", "figma", "postman"],
+    tools: ["visual studio", "intellij", "vscode", "figma", "postman", "sqlyog"],
     attendingSchool: {
         name: "digital house",
         course: "certified tech developer",
