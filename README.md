@@ -31,14 +31,14 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=buefy&include_all_commits=false&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=dracula&include_all_commits=false&hide_border=true" />
     </a>
 </div>
 
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=buefy&hide_border=true&custom_title=Learning%20Path%20So%20Far")](https://github.com/fernandobade/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&theme=dracula&hide_border=true&custom_title=Learning%20Path%20So%20Far")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
 
