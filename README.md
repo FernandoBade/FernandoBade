@@ -28,6 +28,15 @@ console.log(fernandoBade);
             width=467 align="center">
     </a>
 </div>
+
+
+<div align="center">
+    <a href="https://github.com/FernandoBade/">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=467">
+    </a>
+</div>
+
+
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
