@@ -22,17 +22,17 @@ console.log(fernandoBade);
 
 <p></p>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
             width=467 align="center">
     </a>
-</div>
+</div> -->
 
 
 <div align="center">
     <a href="https://github.com/FernandoBade/">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=467">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
     </a>
 </div>
 
