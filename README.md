@@ -17,25 +17,24 @@ const fernandoBade = {
 console.log(fernandoBade);
 ```
 <div align="center">
-    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=445>
+    <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=495>
 </div>
 
-<p></p>
 
-<div align="center">
+<!--<div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
-            width=467 align="center">
+            width=495 align="center">
     </a>
-</div>
+</div> -->
 
 
-<!-- <div align="center">
+ <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
     </a>
 </div>
- -->
+
 
 <div align="center">
     <a href="https://github.com/FernandoBade/">
