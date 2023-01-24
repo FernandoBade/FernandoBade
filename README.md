@@ -1,7 +1,7 @@
 ```javascript
 const fernandoBade = {
 
-    age: 35,
+    age: 36,
     hobbies: ["games", "movies", "series"],
     alreadyKnow: ["java", "javascript", "mysql", "html/css", "selenium", "cypress", "ux/ui design"],
     studyingNow: ["vb.net", "asp.net", "jquery", "react"],
@@ -9,7 +9,7 @@ const fernandoBade = {
     attendingSchool: {
         name: "digital house",
         course: "certified tech developer",
-        degree: "full-stack developer + backend specialization",
+        degree: "full-stack developer",
         conclusion: "june 2024"
     }
 }
