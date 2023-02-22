@@ -10,7 +10,7 @@ const fernandoBade = {
         name: "digital house",
         course: "certified tech developer",
         degree: "full-stack developer",
-        conclusion: "june 2024"
+        conclusion: "apr 2023"
     }
 }
 
