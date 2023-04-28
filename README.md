@@ -1,20 +1,40 @@
-```javascript
+```typescript
 const fernandoBade = {
-
-    age: 36,
-    hobbies: ["games", "movies", "series"],
-    alreadyKnow: ["java", "javascript", "mysql", "html/css", "selenium", "cypress", "ux/ui design"],
-    studyingNow: ["vb.net", "asp.net", "jquery", "react"],
-    tools: ["visual studio", "intellij", "vscode", "figma", "postman", "sqlyog"],
-    attendingSchool: {
-        name: "digital house",
-        course: "certified tech developer",
-        degree: "full-stack developer",
-        conclusion: "apr 2023"
-    }
-}
+  age: 36,
+  bio: [
+        'Hello! My name is Fernando Bade and a few years ago I decided
+         to pivot my career towards technology, and today I fall
+         more in love with it every day :)'
+  ],
+  hobbies: ['games', 'movies', 'series', 'animes'],
+  education: ['fullstack developer', 'business administration', 'finance'],
+  programming: ['vb.net', 'asp.net', 'typescript', 'javascript', 'jquery', 'react', 'taiwind', 'sass', 'node.js', 'mysql'],
+  tools: ['visual studio', 'vscode', 'azure devops','figma', 'postman', 'sqlyog'],
+  skills: ['ux/ui design', 'automated tests', 'clean code'],
+  projects: [
+    {
+      name: 'StardewOS',
+      description: 'A Javascript-based web project simulating an interactive OS model inspired by Stardew Valley game',
+      focus: 'javascript',
+      link: 'https://fernandobade.github.io/stardewOS/',
+    },
+    {
+      name: 'MetalSlug.js',
+      description: 'A web platformer game tribute to the Metal Slug franchise, created using JavaScript, jQuery, Collision.',
+      focus: 'javascript, jquery',
+      link: 'https://fernandobade.github.io/metal-slug-js/',
+    },
+    {
+      name: 'Aluchefs App',
+      description: 'A culinary forum and social network app designed with UX/UI principles, fully prototyped in Figma',
+      focus: 'UX/UI Design',
+      link: 'https://www.behance.net/gallery/137661055/UXUI-Design-App-Aluchefs-Forum-e-Rede-Social/',
+    },
+  ],
+};
 
 console.log(fernandoBade);
+
 ```
 <div align="center">
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=495>
