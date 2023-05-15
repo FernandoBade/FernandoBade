@@ -20,7 +20,7 @@ const fernandoBade = {
     },
     {
       name: 'MetalSlug.js',
-      description: 'A web platformer game tribute to the Metal Slug franchise, created using JavaScript, jQuery, Collision.',
+      description: 'A web platformer game tribute to the Metal Slug franchise, created using JavaScript and jQuery',
       focus: 'javascript, jquery',
       link: 'https://fernandobade.github.io/metal-slug-js/',
     },
