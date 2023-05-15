@@ -58,19 +58,19 @@ console.log(fernandoBade);
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&include_all_commits=true&hide_border=true&card_width=495" />
+            src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&include_all_commits=true&hide_border=true&card_width=495" />
     </a>
 </div>
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobade&size_weight=0.5&count_weight=0.5&line_height=35&langs_count=6&hide=html,css&theme=dracula&layout=normal&bg_color=00000000&hide_border=true&custom_title=Most%20Used%20Languages&card_width=495")](https://github.com/fernandobade/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobade&size_weight=0.5&count_weight=0.5&line_height=35&langs_count=6&hide=html,css&theme=material-palenight&layout=normal&bg_color=00000000&hide_border=true&custom_title=Most%20Used%20Languages&card_width=495")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&langs_count=14&theme=dracula&bg_color=00000000&hide=binary,other&hide_border=true&layout=compact&custom_title=Learning%20Path%20So%20Far&card_width=450")](https://github.com/fernandobade/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&langs_count=14&theme=material-palenight&bg_color=00000000&hide=binary,other&hide_border=true&layout=compact&custom_title=Learning%20Path%20So%20Far&card_width=450")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
 
