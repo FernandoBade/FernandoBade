@@ -8,7 +8,7 @@ const fernandoBade = {
   ],
   hobbies: ['games', 'movies', 'series', 'animes'],
   education: ['fullstack developer', 'business administration', 'finance'],
-  programming: ['vb.net', 'asp.net', 'typescript', 'javascript', 'react', 'taiwind', 'sass', 'node.js', 'mysql'],
+  programming: ['vb.net', 'asp.net', 'c#', 'typescript', 'javascript', 'react', 'taiwind', 'sass', 'node.js', 'mysql'],
   tools: ['visual studio', 'vscode', 'azure devops','figma', 'postman', 'sqlyog'],
   skills: ['ux/ui design', 'automated tests', 'clean code'],
   projects: [
