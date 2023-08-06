@@ -70,7 +70,7 @@ console.log(fernandoBade);
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobade&size_weight=0&count_weight=1&line_height=35&langs_count=5&hide=html,css,java,scss&theme=material-palenight&layout=normal&bg_color=00000000&hide_border=true&custom_title=Top%205%20That%20I%20Like%20The%20Most%20Until%20Now&disable_animations=true&card_width=495")](https://github.com/fernandobade/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobade&size_weight=1&count_weight=0&line_height=35&langs_count=5&hide=html,css,java,scss&theme=material-palenight&layout=normal&bg_color=00000000&hide_border=true&custom_title=Top%205%20That%20I%20Like%20The%20Most%20Until%20Now&disable_animations=true&card_width=495")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
   
