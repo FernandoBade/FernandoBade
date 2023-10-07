@@ -64,7 +64,7 @@ console.log(fernandoBade);
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
-        <img align="center" src="https://github-readme-stats-fernandobade.vercel.app/api/wakatime?username=fernandobade&line_height=35&langs_count=12&theme=material-palenight&bg_color=00000000&hide=binary,other&hide_border=true&layout=compact&custom_title=Learning%20Path%20So%20Far&card_width=450")](https://github.com/fernandobade/github-readme-stats)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandobade&line_height=35&langs_count=12&theme=material-palenight&bg_color=00000000&hide=binary,other&hide_border=true&layout=compact&custom_title=Learning%20Path%20So%20Far&card_width=450")](https://github.com/fernandobade/github-readme-stats)
     </a>
 </div>
 
