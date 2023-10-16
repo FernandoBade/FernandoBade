@@ -49,7 +49,7 @@ console.log(fernandoBade);
 </div> -->
 
 
- <div align="center">
+<!-- <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
     </a>
@@ -60,7 +60,7 @@ console.log(fernandoBade);
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=FernandoBade&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&rank_icon=normal&include_all_commits=true&hide_border=true&ring_color=9400ff&disable_animations=true&card_width=495" />
     </a>
-</div>
+</div>-->
 
 <div align="center">
     <a href="https://github.com/FernandoBade">  
