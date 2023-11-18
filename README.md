@@ -40,15 +40,6 @@ console.log(fernandoBade);
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=495>
 </div>
 
-
-<div align="center">
-    <a href="https://github.com/FernandoBade/">
-        <img src="https://novatorem-fernandobade.vercel.app/api/spotify"
-            width=495 align="center">
-    </a>
-</div>
-
-
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
