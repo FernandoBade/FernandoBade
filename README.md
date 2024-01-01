@@ -40,11 +40,11 @@ console.log(fernandoBade);
     <img src="https://i.giphy.com/media/OSpqk0vlZOOwo/giphy.webp" width=495>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
     </a>
-</div>
+</div> -->
 
 <div align="center">
     <a href="https://github.com/FernandoBade/">
