@@ -1,4 +1,14 @@
-```typescript
+![Fernando Bade's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobade&show=prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
+
+<!-- ```typescript
 const fernandoBade = {
   age: 36,
   bio: [
@@ -45,7 +55,7 @@ console.log(fernandoBade);
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160833189&count=10&width=495">
     </a>
 </div> -->
-
+<!--
 <div align="center">
     <a href="https://github.com/FernandoBade/">
         <img align="center"
@@ -71,3 +81,4 @@ console.log(fernandoBade);
 <div align="center"> 
       <img src="https://komarev.com/ghpvc/?username=fernandobade&label=Profile%20Views%20Until%20Now&color=8f72db" alt="Fernando Bade's profile" />
 </div>
+-->
