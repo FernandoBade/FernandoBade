@@ -1,11 +1,11 @@
 <div align="center">
-    <a align="center" href="https://github.com/FernandoBade/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=500&color=006aff&center=true&random=false&width=500&height=60&lines=Product+Owner+by+day;Coding+enthusiast+by+night;Gamer+and+series+addict+in+between">
-    </a>
+    <img src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif" width=495>
 </div>
 
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif" width=495>
+    <a align="center" href="https://github.com/FernandoBade/">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=500&color=006aff&center=true&random=false&width=500&height=60&lines=Product+Owner+by+day;Coding+enthusiast+by+night;Gamer+and+series+addict+in+between">
+    </a>
 </div>
 
 <div align="center">
