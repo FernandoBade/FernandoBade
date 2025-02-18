@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif" width=495>
 </div>
-<hr>
+
 <p></p>
 <div align="center">
     <a align="center" href="https://github.com/FernandoBade/">
@@ -16,9 +16,9 @@
 </div>
 
 <div align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-API&hide_border=true&show_owner=true&theme=transparent&card_width=495" />    
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-API&hide_border=true&show_owner=true&theme=transparent&card_width=495" />
 </div>
-<hr>
+
 <p></p>
 <!-- <div align="center">
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fernandobade&theme=transparent&hide_border=true&mode=weekly" />
