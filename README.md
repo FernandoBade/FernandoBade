@@ -16,14 +16,14 @@
 </div>
 
 <div align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-api-mysql&hide_border=true&show_owner=true&theme=transparent&card_width=495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-api-mysql&hide_border=true&theme=transparent&card_width=495" />
 </div>
 
 <p></p>
-<!-- <div align="center">
+<div align="center">
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fernandobade&theme=transparent&hide_border=true&mode=weekly" />
 </div>
--->
+
 
 <div align="center">
   <img  align="center" src="https://github-readme-stats-fernandobades-projects.vercel.app/api?username=fernandobade&show=prs_merged,prs_merged_percentage&theme=transparent&rank_icon=percentile&hide_border=true&include_all_commits=true&custom_title=General%20status&number_format=long&show_icons=true&card_width=495" />
@@ -32,37 +32,3 @@
 <div align="center">
   <img  align="center" src="https://github-readme-stats-fernandobades-projects.vercel.app/api/wakatime?username=fernandobade&hide=binary,other,json,text,prolog,gdscript3,bash,xml,tsconfig&hide_border=true&layout=compact&custom_title=Learning%20path%20so%20far&card_width=450&langs_count=14&theme=transparent&card_width=495" />
 </div>
-
-
-
-
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,cypress,dotnet,express,figma,git,github,html,js,jquery,md,mongodb,mysql,nextjs,nodejs,npm,postman,prisma,py,react,sass,tailwind,ts,visualstudio,vscode&perline=9" />
-  </a>
-</p>
--->
-
-<!--
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=stardewOS&hide_border=true&theme=dracula&card_width=495" />
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=poke-ipsum&hide_border=true&theme=dracula&card_width=495" />
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus&hide_border=true&theme=dracula&card_width=495" />
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=certified-tech-developer&hide_border=true&theme=dracula&card_width=495" />
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=projeto-aluchefs&hide_border=true&theme=dracula&card_width=495" />
-</div>
-
--->
