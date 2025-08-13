@@ -16,8 +16,11 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/FernandoBade/laurus-api-mysql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-api-mysql&hide_border=true&theme=transparent&card_width=495" />
+  </a>
 </div>
+
 
 <!-- <p></p>
 <div align="center">
