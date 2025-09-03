@@ -1,6 +1,6 @@
 <div align="center">
     <a align="center" href="https://github.com/FernandoBade/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=500&color=006aff&center=true&random=false&width=500&height=60&lines=Associate+product+manager+by+day+👨‍💻;Coding+enthusiast+by+night+🚀;Gamer+and+series+addict+in+between+🎮">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=500&color=006aff&center=true&random=false&width=500&height=60&lines=Product+manager+by+day+👨‍💻;Coding+enthusiast+by+night+🚀;Gamer+and+series+addict+in+between+🎮">
     </a>
 </div>
 
