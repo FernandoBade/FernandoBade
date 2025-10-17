@@ -23,7 +23,7 @@
 <br>
 <div align="center">
 
-[![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=26&hide_border=true&custom_title=Learning%20path%20so%20far)](https://github.com/FernandoBade/FernandoBade)
+[![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=18&hide_border=true&custom_title=Learning%20path%20so%20far&hide=assembly,binary,json,text,gdscript3,tsconfig,gitconfig,prolog,xml)](https://github.com/FernandoBade/FernandoBade)
 
 </div>
 
@@ -41,11 +41,8 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/FernandoBade/laurus-api-mysql">
+<a href="https://github.com/FernandoBade/gerador-validador-cnpj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=gerador-validador-cnpj&hide_border=true&theme=transparent&card_width=495" />
   </a>
 </div>
   
-<!-- <div align="center">
-  <img  align="center" src="https://github-readme-stats-fernandobades-projects.vercel.app/api/wakatime?username=fernandobade&hide=binary,other,json,text,prolog,gdscript3,bash,xml,tsconfig&hide_border=true&layout=compact&custom_title=Learning%20path%20so%20far&card_width=450&langs_count=14&theme=transparent&card_width=495" />
-</div> -->
