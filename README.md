@@ -23,7 +23,7 @@
 <br>
 <div align="center">
 
-[![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=26&hide_border=true&custom_title=Learning%20path%20so%20far)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=26&hide_border=true&custom_title=Learning%20path%20so%20far)](https://github.com/FernandoBade/FernandoBade)
 
 </div>
 
