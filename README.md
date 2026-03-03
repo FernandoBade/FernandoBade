@@ -23,6 +23,7 @@
 <br>
 <div align="center">
 
+<!-- 
 [![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=18&hide_border=true&custom_title=Learning%20path%20so%20far&hide=assembly,binary,json,text,gdscript3,tsconfig,gitconfig,prolog,xml)](https://github.com/FernandoBade/FernandoBade)
 
 </div>
