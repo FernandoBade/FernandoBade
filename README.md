@@ -23,27 +23,8 @@
 <br>
 <div align="center">
 
-<!-- 
+
 [![Fernando's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FernandoBade&layout=compact&theme=transparent&disable_animations=true&langs_count=18&hide_border=true&custom_title=Learning%20path%20so%20far&hide=assembly,binary,json,text,gdscript3,tsconfig,gitconfig,prolog,xml)](https://github.com/FernandoBade/FernandoBade)
 
 </div>
 
-
-<div align="center">
-    <a align="center" href="https://github.com/FernandoBade/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=1000&pause=500000&color=006aff&center=true&random=false&width=500&height=60&lines=My+ongoing+projects+for+2025+🔥">
-    </a>
-</div>
-
-<div align="center">
-<a href="https://github.com/FernandoBade/laurus-api-mysql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=laurus-api-mysql&hide_border=true&theme=transparent&card_width=495" />
-  </a>
-</div>
-
-<div align="center">
-<a href="https://github.com/FernandoBade/gerador-validador-cnpj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandobade&repo=gerador-validador-cnpj&hide_border=true&theme=transparent&card_width=495" />
-  </a>
-</div>
-  
